@@ -12,3 +12,9 @@ A collection of fish scripts from [TecMint.com's tutorial](http://www.tecmint.co
 1. [randomfile.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/randomfile.fish): Create a random file or folder with `uptime` stamp.
 1. [convertlowercase.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/convertlowercase.fish): Script to converts uppercase to lowercase and redirects the output to a text file **small.txt** which can be modified as required.
 1. [simplecacl.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/simplecacl.fish): a simple calculator
+1. [Addition.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Addition.fish): Simple addtion for two numbers.
+1. [Substraction.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Substraction.fish): Simple substraction for two numbers
+1. [Multiplication.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Multiplication.fish): Simple multiplication for two numbers.
+1. [Division.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Division.fish): Simple division for two numbers.
+1. [Table.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Table.fish): Print table of any number.
+1. [EvenOdd.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/EvenOdd.fish): Check if a number input from standard input is odd or even.
