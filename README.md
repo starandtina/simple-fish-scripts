@@ -17,4 +17,8 @@ A collection of fish scripts from [TecMint.com's tutorial](http://www.tecmint.co
 1. [Multiplication.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Multiplication.fish): Simple multiplication for two numbers.
 1. [Division.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Division.fish): Simple division for two numbers.
 1. [Table.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Table.fish): Print table of any number.
-1. [EvenOdd.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/EvenOdd.fish): Check if a number input from standard input is odd or even.
+1. [EvenOdd.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/EvenOdd.fish): Check if the number from input is odd or even.
+1. [Factorial.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Factorial.fish): Compute the factorial of a number.
+1. [Armstrong.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Armstrong.fish): Check if the number from input is Armstrong or not.
+1. [Prime.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Prime.fish): Check if the number from input is prime or not.
+1. [Fibonacci.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Fibonacci.fish): Check if the number from input is a Fibonacci or not.
