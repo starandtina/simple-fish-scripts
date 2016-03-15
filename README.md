@@ -22,3 +22,5 @@ A collection of fish scripts from [TecMint.com's tutorial](http://www.tecmint.co
 1. [Armstrong.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Armstrong.fish): Check if the number from input is Armstrong or not.
 1. [Prime.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Prime.fish): Check if the number from input is prime or not.
 1. [Fibonacci.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Fibonacci.fish): Check if the number from input is a Fibonacci or not.
+1. [Decimal2Binary.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Decimal2Binary.fish): Convert Decimal Number to Binary.
+1. [Binary2Decimal.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Binary2Decimal.fish): Convert Binary Number back to Decimal.
