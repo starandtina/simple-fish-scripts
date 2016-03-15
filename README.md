@@ -7,4 +7,8 @@ A collection of fish scripts from [TecMint.com's tutorial](http://www.tecmint.co
 1. [colorfull.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/colorfull.fish): Creating colorful script.
 1. [Encrypt.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Encrypt.fish): Encrypt a File/Directory with password.
 1. [Server-Health.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Server-Health.fish):  Checking server utilization.
-1. [Disk-Space.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Disk-Space.fish): check if the disk space crosses the limit
+1. [Disk-Space.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Disk-Space.fish): Check if the disk space meets the limit.
+1. [up.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/up.fish): Move current working directory.
+1. [randomfile.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/randomfile.fish): Create a random file or folder with `uptime` stamp.
+1. [convertlowercase.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/convertlowercase.fish): Script to converts uppercase to lowercase and redirects the output to a text file **small.txt** which can be modified as required.
+1. [simplecacl.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/simplecacl.fish): a simple calculator
