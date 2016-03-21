@@ -24,3 +24,5 @@ A collection of fish scripts from [TecMint.com's tutorial](http://www.tecmint.co
 1. [Fibonacci.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Fibonacci.fish): Check if the number from input is a Fibonacci or not.
 1. [Decimal2Binary.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Decimal2Binary.fish): Convert Decimal Number to Binary.
 1. [Binary2Decimal.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/Binary2Decimal.fish): Convert Binary Number back to Decimal.
+1. [RemoveBackup.fish](https://github.com/starandtina/simple-fish-scripts/blob/master/RemoveBackup.fish): Transfers a file to a remote host.
+1. [EstimateFileSpace.sh](https://github.com/starandtina/simple-fish-scripts/blob/master/EstimateFileSpace.fish): Estimate file space usage.
